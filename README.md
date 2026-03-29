@@ -1,5 +1,5 @@
 # produtividade-mcps_sqlsaturday-sp-2026
-Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do dia a dia com MCP Servers".
+Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados com IAs: descomplicando tarefas do dia a dia com MCP Servers". Palestra realizada no dia 28/03/2026, durante a edição 2026 do SQL Saturday em São Paulo-SP.
 
 ## MCP Servers úteis ao se trabalhar com Bancos de Dados
 
