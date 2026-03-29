@@ -12,3 +12,28 @@ Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados c
 | Extensão Oficial do Postgres (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-ossdata.vscode-pgsql |
 | Extensão Oficial do SQL Server (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql |
 | Extensão Oficial do Mermaid (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart |
+
+
+---
+
+## Informações sobre o evento
+
+Título da apresentação: **Produtividade no uso de Bancos de Dados com IAs - descomplicando tarefas do dia a dia com MCP Servers**
+
+Evento: **SQLSATURDAY São Paulo 2026**
+
+Data: **28/03/2026 (sábado)**
+
+Tecnologias e tópicos abordados: **MCP, GitHub Copilot, Visual Studio Code, Inteligência Artificial, LLMs, Containers, Docker, Docker Hub, Docker MCP Catalog, Windows, Linux, macOS, .NET, ASP.NET Core, NuGet, Node.js, npm, pip, Python, Claude, SQL Server, PostgreSQL, Mermaid, draw.io, Excalidraw...**
+
+Número de participantes: **90 pessoas (estimativa)**
+
+Site do evento: **https://sqlsaturday.com.br/**
+
+Link do evento (inscrições): [**Sympla**](https://www.sympla.com.br/evento/sqlsaturday-sao-paulo-2026/3244336)
+
+Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarulhos - CEP: 07012-030**
+
+Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
+
+Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
