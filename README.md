@@ -37,3 +37,5 @@ Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarul
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
 Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
+
+---
