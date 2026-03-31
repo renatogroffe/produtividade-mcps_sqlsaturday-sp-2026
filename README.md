@@ -58,3 +58,8 @@ Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di
 
 ![Renato e Milton palestrando 8](img/sqlsat-107.jpg)
 
+![Programação](img/site-02.png)
+
+![Descritivo Palestra](img/site-03.png)
+
+![Site](img/site-01.png)
