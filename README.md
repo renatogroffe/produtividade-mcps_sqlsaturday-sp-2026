@@ -34,8 +34,27 @@ Link do evento (inscrições): [**Sympla**](https://www.sympla.com.br/evento/sql
 
 Local: **Centro Universitário Eniac - Rua Força Pública, 89 - Centro - Guarulhos - CEP: 07012-030**
 
+Acesse este [**link**](/img/) para visualizar todas as fotos da apresentação.
+
 Esta palestra foi realizada em conjunto com meu amigo **Milton Camara (Microsoft MVP)**.
 
 Deixo aqui meus agradecimentos ao **Marcelo Adade (Microsoft MVP)**, **André Di Battista (volutário no evento)** e demais organizadores por todo o apoio para que participássemos como palestrantes desta edição do **SQLSaturday**.
 
 ---
+
+![Renato e Milton palestrando 1](img/sqlsat-008.jpeg)
+
+![Renato e Milton palestrando 2](img/sqlsat-042.jpeg)
+
+![Renato e Milton palestrando 3](img/sqlsat-108.jpg)
+
+![Renato e Milton palestrando 4](img/sqlsat-095.jpeg)
+
+![Renato e Milton palestrando 5](img/sqlsat-076.jpeg)
+
+![Renato e Milton palestrando 6](img/sqlsat-073.jpeg)
+
+![Renato e Milton palestrando 7](img/sqlsat-092.jpeg)
+
+![Renato e Milton palestrando 8](img/sqlsat-107.jpg)
+
