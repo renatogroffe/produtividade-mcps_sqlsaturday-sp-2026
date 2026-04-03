@@ -24,7 +24,6 @@ Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados c
 - APIsec MCP Discovery and Audit: https://github.com/apisec-inc/mcp-audit
 - Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
 
-
 ---
 
 ## Informações sobre o evento
