@@ -13,6 +13,17 @@ Slides e conteúdos da apresentação "Produtividade no uso de Bancos de Dados c
 | Extensão Oficial do SQL Server (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql |
 | Extensão Oficial do Mermaid (inclui MCP Server) | - | https://marketplace.visualstudio.com/items?itemName=MermaidChart.vscode-mermaid-chart |
 
+## Referências
+
+## Referências
+- Model Context Protocol (MCP): https://github.com/modelcontextprotocol
+- Microsoft Agent Framework: https://learn.microsoft.com/en-us/agent-framework/overview/?pivots=programming-language-csharp
+- GitHub Copilot: https://github.com/features/copilot?locale=pt-br
+- Docker MCP Catalog: https://hub.docker.com/mcp
+- OWASP MCP Top 10: https://owasp.org/www-project-mcp-top-10/
+- APIsec MCP Discovery and Audit: https://github.com/apisec-inc/mcp-audit
+- Certificações Gratuitas APIsec University: https://www.apisecuniversity.com/courses
+
 
 ---
 
